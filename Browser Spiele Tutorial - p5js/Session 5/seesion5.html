@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <title>Browser Spiele SESSION 5</title>
+        <script src="p5.min.js"></script>
+    </head>
+    
+    <body>
+        Das ist der Body Bereich!!!
+        
+        <script>
+            
+            function ausgabe () {
+                console.log("GAMEOVER!");
+            }
+            
+            ausgabe();
+            
+            var test = 5-2;
+            
+            if (test == 3) {
+                ausgabe();
+            }
+            
+            function rechnung (erster_wert, zweiter_wert) {
+                console.log(erster_wert - zweiter_wert);
+            }
+            
+            rechnung(5, 3);
+            
+            rechnung(6, 9);
+            
+            function weiter (erster_wert, zweiter_wert) {
+                return erster_wert + zweiter_wert;
+            }
+            
+            var ergebnis = weiter(weiter(5,5), weiter(15,2));
+            // weiter(10, weiter(15,2))
+            // weiter(10, 17)
+            // 27
+            console.log(ergebnis);
+            
+            function ausgabe_von_wert (wert) {
+                if (wert > 0) {
+                    console.log("Wert größer 0");
+                } else if (wert < 0) {
+                    console.log("Wert kleiner 0");
+                } else {
+                    console.log("Wert gleich 0");
+                }
+            }
+            
+            ausgabe_von_wert(-5);
+            ausgabe_von_wert(200);
+            ausgabe_von_wert(0)
+            
+        </script>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
