@@ -1,0 +1,55 @@
+p {
+	font-size: 50px;
+	background-color: #d0d0d0;
+	color: #ffffff;
+	text-align: justify;
+	font-style: italic;
+	font-weight: 900;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+p a {
+	font-weight: 100;
+}
+
+nav a {
+	color: black;
+}
+
+#header {
+	font-size: 20px;
+	color: orange;
+}
+
+#lastnav {
+	color: red;
+}
+
+#lastnav a {
+	color: red;
+}
+
+.fett { 
+	font-weight: bold;
+}
+
+.kursiv {
+	font-style: italic;
+}
+
+#text {
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+

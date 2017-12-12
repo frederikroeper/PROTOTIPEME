@@ -1,0 +1,20 @@
+p {
+	font-size: 50px;
+	background-color: #d0d0d0;
+	color: #ffffff;
+	text-align: justify;
+	font-style: italic;
+	font-weight: 900;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+p a {
+	font-weight: 100;
+}
+
+nav a {
+	color: black;
+}
