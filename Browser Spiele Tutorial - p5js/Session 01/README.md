@@ -1,4 +1,5 @@
-[![Setup #1 | Browser Spiele entwickeln mit p5js](http://img.youtube.com/vi/T13udU5rMps/0.jpg)](http://www.youtube.com/watch?v=T13udU5rMps)
+[Zum Video →](https://www.youtube.com/watch?v=T13udU5rMps)
+
 Herzlich Willkommen zu diesem Browser spiele Entwicklungskurs. Wir werden lernen wie du auf den Bildschirm zeichnest und Dinge animierst. Außerdem wirst du lernen wie du die Maus und die Tastatur einsetzt um ein richtiges Spiel zu entwickeln. Wir fangen in diesem Kurs ganz von vorne an, sodass wir die Grundlagen gemeinsam legen. Du benötigst nichts weiter als diesen Kurs und ein paar der unten aufgelisteten Programme. Am besten installierst du Chrome und Brackets. Das sind die in diesem Kurs verwendeten Programme, mit denen es sehr gut funktionieren sollte.
 
 Browser:
