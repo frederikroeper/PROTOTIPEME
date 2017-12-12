@@ -1,0 +1,3 @@
+[Zum Video →](https://www.youtube.com/watch?v=rjzymlR0OiY)
+
+Eine Schleife im Programmieren hat nichts mit dem Schuhe binden oder Geschenken zu tun. Es geht vielmehr um ein stück des Programmes, dass man häufiger hintereinander ausführt. Dafür gibt es zwei unterschiedliche Typen von Schleifen. Einmal die for Schleife. Diese wiederholt den Code z.B. 5 mal. Deshalb wird Sie auch Zählschleife genannt. Die while - Schleife tritt ein, bis eine gewisse Bedingung nichtmehr stimmt.
